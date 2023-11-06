@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="javawebScience04">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$" />
+      <root url="file://$PROJECT_DIR$/../../../apache-tomcat-8.5.28/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/../../../apache-tomcat-8.5.28/lib" recursive="false" />
+  </library>
+</component>
